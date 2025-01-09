@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  small {
+    display: block;
+    margin-top: 5px;
+  }
+  
+  .form-check-label {
+    font-weight: 500;
+  }
+  
+  .fa-robot {
+    margin-right: 5px;
+  }
+  
+  .btn-block {
+    margin-top: 20px;
+  }
